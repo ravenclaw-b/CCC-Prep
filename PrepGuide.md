@@ -1,4 +1,3 @@
----
 
 ## **Week 1: Concept Mastery & Speed**  
 Focus: Strengthen foundational skills and problem-solving speed.
