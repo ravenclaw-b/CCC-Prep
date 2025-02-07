@@ -2,6 +2,8 @@
 ## **Week 1: Concept Mastery & Speed**  
 Focus: Strengthen foundational skills and problem-solving speed.
 
+---
+
 ### **Day 1: Implementation & Ad Hoc**  
 - **[Codeforces - Grouping Characters](https://codeforces.com/problemset/problem/131/B)**  
   - Learn to efficiently rearrange and count operations.  
